@@ -19,13 +19,9 @@ I am currently recruiting graduate students and welcome those interested in **3D
 
 ## Recent Publications 📄
 
-{% for publication in site.publications %}
-- **{{ publication.title }}**
-   - **Authors**: {{ publication.authors | join: ", " }}
-   - **Journal/Conference**: {{ publication.journal }}
-   - **Year**: {{ publication.year }}
-   - **Link**: [{{ publication.link }}]({{ publication.link }})
-{% endfor %}
+  {% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
 
 ### 1. **Serialization based Point Cloud Oversegmentation**
    - **Authors**: Chenghui Lu, Jianlong Guan, **Dilong Li**, Ziyi Chen, Haiyan Guan
