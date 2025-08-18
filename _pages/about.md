@@ -27,9 +27,9 @@ I am currently recruiting graduate students and welcome those interested in **3D
 
 ## Recent Publications 📄
 
-### **Serialization based Point Cloud Oversegmentation**  
+### **Serialization based Point Cloud Oversegmentation**✨
    Chenghui Lu, Jianlong Guan, **Dilong Li**, Ziyi Chen, Haiyan Guan  
-   ICCV 2025 (Top-tier Computer Vision Conference, CCF Class A, Accepted)
+   ICCV 2025 (Top-tier Computer Vision Conference, CCF A)
 
 ### **LGMamba: Large-Scale ALS Point Cloud Semantic Segmentation With Local and Global State-Space Model**  
    **Dilong Li**, Jing Zhao, Chongkei Chang, Ziyi Chen, Jixiang Du  
