@@ -19,6 +19,14 @@ I am currently recruiting graduate students and welcome those interested in **3D
 
 ## Recent Publications 📄
 
+{% for publication in site.publications %}
+- **{{ publication.title }}**
+   - **Authors**: {{ publication.authors | join: ", " }}
+   - **Journal/Conference**: {{ publication.journal }}
+   - **Year**: {{ publication.year }}
+   - **Link**: [{{ publication.link }}]({{ publication.link }})
+{% endfor %}
+
 ### 1. **Serialization based Point Cloud Oversegmentation**
    - **Authors**: Chenghui Lu, Jianlong Guan, **Dilong Li**, Ziyi Chen, Haiyan Guan
    - **Conference**: ICCV 2025 (Top-tier Computer Vision Conference, CCF Class A, Accepted)
