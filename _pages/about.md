@@ -22,6 +22,9 @@ I am currently recruiting graduate students and welcome those interested in **3D
 - ✅ Full master's program with sufficient quotas and computational resources
 - ✅ Feel free to contact me via email: [scholar.dll@hqu.edu.cn](mailto:scholar.dll@hqu.edu.cn)
 
+  
+**Join my team ([Github](https://github.com/HQU-3DCV)) and embark on an exciting research journey!** 🚀
+
 ## Recent Publications 📄
 
 ### **Serialization based Point Cloud Oversegmentation**  
@@ -70,4 +73,3 @@ I am currently recruiting graduate students and welcome those interested in **3D
 
 ---
 
-**Join my team ([Github](https://github.com/HQU-3DCV)) and embark on an exciting research journey!** 🚀
