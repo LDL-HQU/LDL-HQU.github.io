@@ -6,31 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
+武汉大学测绘遥感信息工程国家重点实验室，摄影测量与遥感专业博士，福建省高层次引进人才，厦门市高层次人才，主要研究方向为三维计算机视觉、点云智能解译、深度学习，主持国家自然科学基金青年科学基金项目1项，福建省自然科学基金青年科学基金项目1项，武汉大学测绘遥感信息工程国家重点实验室开放研究基金项目1项，已在国内外知名期刊和会议（International Journal of Applied Earth Observation and Geoinformation、IEEE Transactions on Geoscience and Remote Sensing、ISPRS Journal of Photogrammetry and Remote Sensing、ICCV等）发表论文40余篇，谷歌学术总引用1000余次，获International Journal of Applied Earth Observation and Geoinformation 2021~2023年度最佳审稿人，目前为SCI一区期刊International Journal of Applied Earth Observation and Geoinformation编委。
 
-# 个人主页 - 李迪龙
 
-欢迎来到李迪龙教授的个人主页！🚀
-
-## 导师简介
-- **职称**：华侨大学计算机学院副教授，研究生导师
-- **研究方向**：三维计算机视觉、点云智能解译、深度学习
-- **个人主页**：[华侨大学计算机学院](https://faculty.hqu.edu.cn/LDL1/zh_CN/index.htm)
-- **Google Scholar**：[谷歌学术主页](https://scholar.google.com/citations?user=iXQEnHUAAAAJ&hl=zh-CN)
-
-![导师照片](assets/images/ldl.jpeg)
-
-## 个人简介
-李迪龙博士，武汉大学测绘遥感信息工程国家重点实验室，摄影测量与遥感专业博士，现为福建省高层次引进人才及厦门市高层次人才。他的研究方向包括：
-- 三维计算机视觉
-- 点云智能解译
-- 深度学习
-
-他主持了多个重要科研项目，并在国内外知名期刊和会议上发表了超过40篇论文，累计获得超过1000次谷歌学术引用。李迪龙教授目前是SCI一区期刊《International Journal of Applied Earth Observation and Geoinformation》的编委。📚
-
-## 招生要求
-李迪龙教授目前正在招收研究生，欢迎有志于三维视觉和点云分析的学生加入他的团队。🎓
-
-### 招生要求
+## 招生要求🎓
+我目前正在招收研究生，欢迎有志于三维视觉和点云分析的学生加入我的团队。
+要求：
 - 勤奋踏实、热爱学习、善于思考
 - 具有一定的数学和编程基础
 - 学硕，指标充足，计算资源充足
