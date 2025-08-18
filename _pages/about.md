@@ -79,4 +79,4 @@ I am currently recruiting graduate students and welcome those interested in **3D
 
 ---
 
-🎓 **Join my team and embark on an exciting research journey!** 🚀�
+**Join my team and embark on an exciting research journey!** 🚀
