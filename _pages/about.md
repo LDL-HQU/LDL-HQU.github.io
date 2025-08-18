@@ -6,7 +6,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Dilong Li, Ph.D. from the Wuhan University National Key Laboratory of Surveying, Mapping, and Remote Sensing Information Engineering, is a high-level talent introduced by Fujian Province and Xiamen City. His research focuses on **3D computer vision**, **point cloud intelligent interpretation**, and **deep learning**. He has hosted multiple national and provincial projects, including a National Natural Science Foundation of China Young Scientists Fund and a Fujian Provincial Natural Science Foundation Young Scientists Fund. He has published over 40 papers in renowned journals and conferences, such as *International Journal of Applied Earth Observation and Geoinformation*, *IEEE Transactions on Geoscience and Remote Sensing*, *ISPRS Journal of Photogrammetry and Remote Sensing*, and *ICCV*. His work has received over 1000 citations on Google Scholar. He was awarded the "Best Reviewer" title for *International Journal of Applied Earth Observation and Geoinformation* for 2021-2023 and currently serves on the editorial board of the journal. 📚
+
+
+
+I am Dilong Li, Ph.D. from the. from the [The State Key Laboratory of Information Engineering in Surveying, Mapping and Remote Sensing (Wuhan University)](https://liesmars.whu.edu.cn/). I am a high-level talent introduced by Fujian Province and Xiamen City. My research focuses on 3D computer vision, point cloud intelligent interpretation, and deep learning. I have led multiple national and provincial projects, including a National Natural Science Foundation of China Young Scientists Fund and a Fujian Provincial Natural Science Foundation Young Scientists Fund.
+
+I have published over 40 papers in renowned journals and conferences, such as International Journal of Applied Earth Observation and Geoinformation, IEEE Transactions on Geoscience and Remote Sensing, ISPRS Journal of Photogrammetry and Remote Sensing, and ICCV. My work has been cited over 1000 times on Google Scholar. I was honored with the "Best Reviewer" title for International Journal of Applied Earth Observation and Geoinformation for 2021-2023 and currently serve on the editorial board of the journal. 📚
 
 ## Admissions Requirements 🎓
 I am currently recruiting graduate students and welcome those interested in **3D vision** and **point cloud analysis** to join my team. 
@@ -18,10 +23,6 @@ I am currently recruiting graduate students and welcome those interested in **3D
 - ✅ Feel free to contact me via email: [scholar.dll@hqu.edu.cn](mailto:scholar.dll@hqu.edu.cn)
 
 ## Recent Publications 📄
-
-  {% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
 
 ### 1. **Serialization based Point Cloud Oversegmentation**
    - **Authors**: Chenghui Lu, Jianlong Guan, **Dilong Li**, Ziyi Chen, Haiyan Guan
