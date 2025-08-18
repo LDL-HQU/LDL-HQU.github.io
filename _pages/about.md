@@ -70,4 +70,4 @@ I am currently recruiting graduate students and welcome those interested in **3D
 
 ---
 
-**Join my team and embark on an exciting research journey!** 🚀
+**Join my team ([Github](https://github.com/HQU-3DCV)) and embark on an exciting research journey!** 🚀
