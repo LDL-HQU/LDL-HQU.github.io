@@ -23,7 +23,7 @@ I am currently recruiting graduate students and welcome those interested in **3D
 - ✅ Feel free to contact me via email: [scholar.dll@hqu.edu.cn](mailto:scholar.dll@hqu.edu.cn)
 
   
-**Join my team ([Github](https://github.com/HQU-3DCV)) and embark on an exciting research journey!** 🚀
+**Join my team ([HQU-3DCV](https://github.com/HQU-3DCV)) and embark on an exciting research journey!** 🚀
 
 ## Recent Publications 📄
 
